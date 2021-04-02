@@ -28,7 +28,7 @@ def get_text(href):
             writer.write("------------------News-----------------\n")
             writer.write(title.strip("\n").strip())
             # writer.write("\n----------------------------------------\n")
-            writer.write("\n")
+            writer.write("\n\n\n")
             # writer.write("-----------------Content----------------\n")
             writer.write(content.strip("\n").strip())
             writer.write("\n----------------------------------------\n")
