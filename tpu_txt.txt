@@ -1,0 +1,713 @@
+------------------TechPowerUp!!!-----------------
+
+
+
+
+
+
+
+------------------Title-----------------
+GIGABYTE Launches GeForce RTX 3080 GAMING OC WATERFORCE WB 10G graphics card
+----------------------------------------
+
+-----------------Content----------------
+GIGABYTE TECHNOLOGY Co. Ltd, a leading manufacturer of premium gaming hardware, today announced the GIGABYTE WATERFORCE graphics card - GeForce RTX 3080 GAMING OC WATERFORCE WB 10G powered by the NVIDIA GeForce RTX 3080 GPU. Whether users are looking to fulfill the demands of their high-end water-cooled systems, or to enjoy the benefits of water-cooled GPU and CPUs, GIGABYTE GAMING OC WATERFORCE graphics card is the best choice. GIGABYTE provides easy-to-install and quality-guaranteed water-cooled graphics cards for desktop PCs.
+
+With the continuous increase in CPU power consumption, high-end water-cooled motherboards in the market are becoming more and more popular. The easy-to-install and quality-guaranteed GIGABYTE GAMING OC WATERFORCE graphics card is an easy choice for maximizing your graphics power. Just invest a little more than the GAMING OC air-cooled version and you can enjoy the water cooling benefits for the GPU and CPU. The GAMING OC WATERFORCE graphics card is equipped with a top-of-the-line overclocked GPU. It provides an all-around cooling solution for all key components of the graphics card, keeping the GPU, VRAM and MOSFET running cool to ensure stable overclock operation and longer durability.
+----------------------------------------
+
+
+
+------------------Title-----------------
+NlZ Plum x87 35g Keyboard Review - A Budget Topre with Modern Features
+----------------------------------------
+
+-----------------Content----------------
+If you wanted to try out Topre switches before, but the Topre Realforce or HHKB keyboards were too expensive or not to your liking, perhaps NIZ keyboards are for you. Today, we take a look at their TKL Plum x87, which features electrocapacitive switches built around a solid, quiet keyboard for typists and gamers alike.
+----------------------------------------
+
+
+
+------------------Title-----------------
+ASROCK Z590 Phantom Gaming Velocita Review
+----------------------------------------
+
+-----------------Content----------------
+The Phantom Gaming Velocita from ASRock targets the gamer market with Killer Networking for both wired and wireless connectivity and a dependable 14-phase VRM. Thanks to the integrated low-noise fan, VRM temperatures reached only 50°C, so no problem at all, even with a power-hungry Core i9-11900K.
+----------------------------------------
+
+
+
+------------------Title-----------------
+ADATA XPG Unveils XPG GAMMIX S70 BLADE PCIe Gen4x4 M.2 SSD
+----------------------------------------
+
+-----------------Content----------------
+XPG, a fast-growing provider of systems, components, and peripherals for Gamers, E-sports Pros, and Tech Enthusiasts, announcesthe launch of the XPG GAMMIX S70 BLADE PCIe Gen4 x4 M.2 2280 solid state drive (SSD). Sporting the latest PCIe Gen4 x4 interface and a host of other capabilities, this SSD delivers fast read/write speeds to meet the demands of gaming, graphics processing, and 5G applications. What's more, its unique heat sink design offers excellent thermal cooling for optimal performance and stability. Its compact M.2 2280 form factor makes it ideal for most laptop PCs, including Intel Evo certified laptops, and game consoles. 
+
+With the latest PCIe Gen4 interface, the GAMMIX S70 BLADE will help gamers dominate the competition with sequential read/write performance of up to 7400/6400 MB/s. This is up to two times faster than PCIe 3.0 SSDs and fifteen times faster than SATA SSDs. For ease of use, it is backward compatible with PCIe 3.0.The S70 BLADE is equipped with 3D NAND Flash for higher capacities (up to 2 TB) and enhanced efficiency and durability, and it is compliant with NVMe 1.4.
+----------------------------------------
+
+
+
+------------------Title-----------------
+NVIDIA Enables GPU Passthrough for Virtual Machines on Consumer-Grade GeForce GPUs
+----------------------------------------
+
+-----------------Content----------------
+Editor's note: This is not a part of April Fools.
+
+NVIDIA has separated professional users and regular gamers with the company's graphics card offering. There is a GeForce lineup of GPUs, which represents a gaming-oriented version and its main task is to simply play games, display graphics, and run some basic CUDA accelerated software. However, what would happen if you were to start experimenting with your GPU? For example, if you are running Linux, and you want to spin a virtual machine with Windows on it for gaming, you could just use your integrated GPU as the GeForce card doesn't allow for virtual GPU passthrough. For these purposes, NVIDIA has its professional graphics card lineup like Quadro and Tesla.
+
+However, this specific feature is about to arrive in even the GeForce lineup offerings. NVIDIA has announced that the company is finally bringing the basic virtual machine passthrough functions to the gaming GPUs. While the feature is representing a step in the right direction, it is still limited. For example, the GeForce GPU passthrough supports only one virtual machine and SR-IOV feature is still not supported on GeForce. "If you want to enable multiple virtual machines to have direct access to a single GPU or want the GPU to be able to assign virtual functions to multiple virtual machines, you will need to use NVIDIA Tesla, Quadro, or RTX enterprise GPUs.", says the NVIDIA FAQ. GeForce virtualization, which is now still in beta, is supported on R465 or higher drivers. The full content from NVIDIA's website is written below.
+----------------------------------------
+
+
+
+------------------Title-----------------
+ASUS Announces Mini PC PB62
+----------------------------------------
+
+-----------------Content----------------
+ASUS today announced Mini PC PB62, a durable computer that delivers powerful performance to provide flexibility, expandability and performance to suit a range of business applications, including digital signage, point-of-sales (POS) system, kiosks and intelligent vending machines. Mini PC PB62 is powered by the latest desktop-grade up to 11th Generation Intel Core processor and fast DDR4 3200 MHz memory.
+
+Engineered for performance: 11th Gen Intel Core, DDR4 3200 MHz memory and Intel Optane
+With the latest up to 11th Gen Intel Core i7 processors, Mini PC PB62 is caters for with support for either a 35- or 65-watt CPU - so it's ready to be specified for supreme efficiency or maximum performance. PB62 also has built-in support for Intel Optane H20 memory, the technology that greatly improves storage speeds, enables frequently-used documents, pictures, videos and applications to be accessed more quickly while improving overall system performance to maximize productivity and efficiency.
+----------------------------------------
+
+
+
+------------------Title-----------------
+NVIDIA GeForce RTX 3050/3050 Ti Laptop GPU Specifications & Performance Leaked
+----------------------------------------
+
+-----------------Content----------------
+The NVIDIA RTX 3050 and RTX 3050 Ti laptop GPUs are the next-generation mid-range offerings from NVIDIA for the notebook sector and will soon replace the GTX 1650 and GTX 1660 Ti. The new graphics cards will feature an adjustable TDP in the range of 35 watts all the way up to 80 watts which will greatly impact performance and battery life. The RTX 3050 will feature 2,048 CUDA cores and a base clock between 713 MHz, and 1,530 MHz while the boost clock will vary from 1,057 MHz to 1,740 MHz depending on the selected TDP. The RTX 3050 Ti increases the core count to 2,560 with similar base clocks at 735 MHz to 1,463 MHz along with boost clocks in the range of 1,035 MHz to 1,695 MHz. The two cards will both feature 4 GB of GDDR6 memory with a bandwidth of 88 GB/s. We have a good idea of the expected performance of these cards, with leaked synthetic and gaming testing putting the RTX 3050 Ti near the RTX 2060 Max-Q while the base RTX 3050 trades blows with the GTX 1660 Ti Max-Q.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Microsoft Adds Backward Compatibility to Xbox Cloud Gaming Beta
+----------------------------------------
+
+-----------------Content----------------
+Microsoft has recently announced an expansion of their Xbox Cloud Gaming Beta with the addition of backward compatibility for select Xbox 360 and original Xbox titles. Xbox Game Pass Ultimate members can now stream 16 backward compatible games through the Xbox Cloud Gaming Beta (formally Project xCloud). Microsoft has also enabled touch support for select titles while the rest will require a controller, the games are currently only playable on Android with no support for Apple devices. Xbox Game Pass Ultimate subscribers with a compatible device can now try out backward compatibility and you can view the complete list of available games below.
+----------------------------------------
+
+
+
+------------------Title-----------------
+HyperX Sets DDR4 Memory Overclocking World Record at 7156 MHz
+----------------------------------------
+
+-----------------Content----------------
+HyperX, the gaming division of Kingston Technology Company, Inc. and brand leader in gaming and esports, today announced that HyperX Predator DDR4 memory was used to set a new overclocking world record for the fastest DDR4 memory frequency at 7156 MHz. The world record for highest frequency was set by the MSI OC Team in Taiwan using a HyperX 4600 MHz Predator DDR4 8G module (part number: HX446C19PB3K2/16) on an MSI MEG Z590I UNIFY motherboard using a 11th Gen Intel Core i9-11900KF @ 3.50 GHz CPU. At the time of this release, the record breaking frequency is posted on HWBOT, the site for PC enthusiasts looking for news, tips and information on overclocking, benchmarks and competitions. The valid CPU-Z screenshot can be found here. 
+
+"We are extremely thrilled and humbled to be part of this exemplary DDR4 overclocking achievement," said Kristy Ernt, DRAM business manager, HyperX. "Our engineers work continuously to improve higher-speed memory yields to bring faster solutions by pushing boundaries that break performance records and bring best-in-class products to our gaming memory community."
+----------------------------------------
+
+
+
+------------------Title-----------------
+ZADAK Announces TWSG3 M.2 NVMe SSD
+----------------------------------------
+
+-----------------Content----------------
+ZADAK, a leading provider of PC gaming components and innovative water cooling solutions, announces a new TWSG3 M.2 PCIe Gen 3x4 SSD using graphene heatsink technology. This appears alongside the new ZADAK Widget software which allows users to easily monitor the health of their SSD. It can be downloaded for free from the ZADAK website.
+
+The TWSG3 features a graphene heatsink with a futuristic digital design, offering not only a stylish look but also 15% optimization of cooling performance. This heatsink will keep your SSD safe from high temperatures when it is under heavy load - whether booting your computer or loading the next game or application on your desktop PC. Graphene is a game-changing material that will be applied to many future PC technology developments - it's simply a matter of time. It really helps in reducing temperatures and was an ideal choice when searching for a complimentary material to add to the heatsink on the TWSG3.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Cougar Intros MX660 Mesh RGB-L Mid-tower Case
+----------------------------------------
+
+-----------------Content----------------
+Cougar today introduced the MX660 Mesh RGB-L, an ATX mid-tower case. A highlight of this case's design is its front-panel, which features a "3-D mesh." A coarse outer mesh extends along three sides of the front-panel, concealing a finer, flat inner mesh that filters dust for the front intake that supports either three 120 mm or two 140 mm fans; and radiators up to 360 mm x 120 mm or 280 mm x 140 mm in size. The top-panel has another such large fan vent, supporting the exact same combinations of fans and radiators. A 120 mm rear exhaust makes for the rest of the case's ventilation feature-set. Three 120 mm fans with ARGB lighting come pre-installed along the front panel, and the case includes a 6-channel ARGB controller that can toggle between presets at the push of a button on the front-panel, or sync with your motherboard's 3-pin ARGB header. 
+
+The Cougar MX660 Mesh RGB-L features a tempered glass left-side panel, behind which is a conventional horizontally partitioned layout, with the upper compartment serving up room for motherboards as large as E-ATX, graphics cards up to 41 cm in length, and CPU coolers up to 16.5 cm in height. The lower compartment has a 20 cm PSU bay, and two 3.5-inch drive trays that can each hold 2.5-inch drives. An additional three 2.5-inch drives can be mounted behind the motherboard tray. Front-panel connectivity includes two USB 3.x type-A, one USB 3.x type-C, and HDA jacks. The case measures 213 mm x 495 mm x 474 mm (WxDxH), dry-weighing 6.3 kg. The company didn't reveal pricing.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Team Group Launches T-Force Xtreem DDR4 Memory Optimized for 11th Gen Core
+----------------------------------------
+
+-----------------Content----------------
+Leading memory provider TEAMGROUP announced today the release of newly specification for T-FORCE high clock rated memory products that will coincide with the launch of Intel 11th Gen Rocket Lake processors: the T-FORCE XTREEM DDR4, XTREEM ARGB DDR4, and XTREEM ARGB WHITE DDR4. When these high clock rate memory modules are paired with the latest Z590 motherboards, users will experience blistering speeds and top performance that will satisfy overclocking enthusiasts and gamers around the world.
+
+T-FORCE's R&D team continues to push clock speeds to greater heights and has successfully launched new 5600 MHz, 5333 MHz, and 5066 MHz DDR4 memory modules to pair with the latest Z590 motherboards and Intel 11th Gen Rocket Lake processors. Under its XTREEM product line, T-FORCE is releasing a DDR4 memory kit with a clock rate of 5600 MHz and a capacity of 16 GB (8 GB x 2) for the ultimate overclocking performance. At the same time, T-FORCE is releasing updated XTREEM/XTREEM ARGB/XTREEM ARGB WHITE DDR4 models with speeds of 5333 MHz and 5066 MHz and 16 GB (8 GB x 2) kits to meet the diverse needs of overclockers.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Thermalright Rolls Out the 47mm-Tall AXP90-X47 Low-profile CPU Cooler
+----------------------------------------
+
+-----------------Content----------------
+Thermalright today rolled out the AXP90-X47, a low-profile CPU cooler meant for compact Mini-ITX builds where Z-height is at a premium. The top-flow cooler offers a height of just 47 mm with its fan in place, and is meant for Socket AM4, LGA1200, and LGA115x platforms. The cooler should do fine as a stock fan-heatsink replacement, for running 10th Gen or 11th Gen Core processors at stock speeds. 
+
+The AXP90-X47 design consists of an aluminium fin-stack that's arranged along the plane of the motherboard, with 54 fins. Four 6 mm-thick nickel-plated copper heat-pipes make indirect contact with the CPU over mirror-finish base made of the same material, conveying heat to this fin-stack. An included 92 mm Thermalright TL-9015 fan ventilates the cooler. This 15 mm-thick fan features a 4-pin PWM input, and hydraulic bearing. It turns at speeds of up to 2,700 RPM, pushing up to 42.58 CFM of air-flow at 1.33 mm H₂O static-pressure, and a noise output of 22.4 dBA at top speed. The cooler measures 92 mm x 92 mm x 47 mm (WxDxH, including fan); weighing 310 g. The company didn't reveal pricing.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Born to Win! GIGABYTE Z590 Motherboards Set New World Overclocking Record and Win Design Award
+----------------------------------------
+
+-----------------Content----------------
+Loaded with cutting-edge hardware and leading specs, the brand new GIGABYTE Z590 motherboards have made a strong impression of premium quality and bold style among the PC community. The GIGABYTE Z590 motherboards have achieved massive success since the launch, from dominating the overclocking world rankings to earning the world-renowned Red Dot design award, once again, affirming GIGABYTE's leadership in PC hardware!
+
+Dedicated for extreme overclocking, Z590 AORUS TACHYON is a motherboard that was jointly designed by overclockers for overclockers. With this motherboard, GIGABYTE teamed up with world-class overclockers and managed to push the latest i9-11900K processor to a record-breaking 7314.41MHz. A new world record that proves yet again GIGABYTE motherboards have amazing overclocking capability and durability. Designed for PC enthusiasts, the flagship Z590 AORUS XTREME comes with a comprehensive package, featuring the highest 20-phase digital power delivery on the market, the highest memory frequency support, and a next-gen PCIe 4.0 ultra-fast data transfer, to deliver uncompromising performance in every aspect.
+----------------------------------------
+
+
+
+------------------Title-----------------
+SMART Modular Announces New Memory Solutions for Data Center Networking Applications
+----------------------------------------
+
+-----------------Content----------------
+SMART Modular Technologies, a subsidiary of SMART Global Holdings, Inc., (Nasdaq: SGH), has expanded its support for data center networking applications with the introduction of DuraMemory high-density, very low profile DIMMs and Mini-DIMMs for hyperscale network switching. These products are ideal for maximizing network bandwidth and reliability, which is critical to data center networking requirements. 
+
+Network memory dictates the amount of data stored or transferred in switching and routing equipment. Low density as well as poor quality memory can disrupt the performance of a network by acting as a bottleneck to data transfer. The rating and attributes of memory can also greatly affect data center network's overall efficiency.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Quick Look: iStorage diskAshur M2
+----------------------------------------
+
+-----------------Content----------------
+iStorage has made its name in the world of encrypted portable storage and is the only company to date with government certifications in multiple regions. Today, we take a quick look at their new diskAshur M2 drive, which uses an M.2 SATA SSD to offer speed, storage size, high build quality, and excellent onboard encryption.
+
+		
+Read Article
+----------------------------------------
+
+
+
+------------------Title-----------------
+MSI MPG Gungnir 110M Review
+----------------------------------------
+
+-----------------Content----------------
+The MSI MPG Gugnir cases give fans of the brand an option to house all their MSI components inside a nice-looking, solid chassis with a few bells and whistles and appropriate branding. The 110M is the most basic variant of the three options currently on the market, but only has a few subtle functional differences to the 111M or 110R.
+----------------------------------------
+
+
+
+------------------Title-----------------
+COMPUTEX 2021 Physical Show Cancelled, Will be Held Online Only
+----------------------------------------
+
+-----------------Content----------------
+TAITRA, the COMPUTEX organizer, has announced that the physical COMPUTEX event has been cancelled (surprising maybe some three or four people in the world). The organizer cites ongoing COVID-19 concerns (including the world's current state of vaccination levels) that would put the safety of attendees on the line, and has thus elected to forego the physical event and focus only on an online capacity. 
+
+However, even as the physical event has been cancelled, TAITRA doubled down on the virtual COMPUTEX event. Marketed #COMPUTEXVirtual, the event is scheduled to run for a full month, from May 31st to June 30th, in what marks COMPUTEX's first attempt at doing a large-scale virtual event. TAITRA had this to say on their decision: "With another wave of coronavirus pandemic across the world, it doesn't look like we are close to the end. The majority of the show's stakeholders, including international exhibitors, visitors, and media, cannot join the show due to border control. Therefore, the organizers of COMPUTEX have decided to cancel the onsite exhibition this year."
+----------------------------------------
+
+
+
+------------------Title-----------------
+TechPowerUp NVCleanstall v1.9.0 Released
+----------------------------------------
+
+-----------------Content----------------
+TechPowerUp today released the latest version of NVCleanstall, our lightweight utility that lets you take greater control of your NVIDIA driver software installation, letting you toggle the installation of a lot more features than what the "Custom" option in the NVIDIA installer allows. These could be important features such as Telemetry. Version 1.9.0 introduces a handful major feature updates. We've improved the driver signature rebuilding so you no longer see the "do you want to trust this publisher" warning. The "Add Hardware Support" setting has been fixed for Quadro drivers. We've also greatly reduced the app's memory footprint, with help from jgottula. 
+
+DOWNLOAD: TechPowerUp NVCleanstall 1.9.0
+----------------------------------------
+
+
+
+------------------Title-----------------
+Cincoze Introduces Flagship High-Performance Industrial-Grade GPU Computer
+----------------------------------------
+
+-----------------Content----------------
+Rapid evolution in AI technology is infusing IoT devices with new capabilities, leading to the new trend of AIoT. Simply speaking, IoT devices acquire data then transmit that data through the network to an integrated backend system. Typical applications include automation, remote control, and connection with other IoT devices. AIoT brings the power of AI to these IoT devices, so that machine equipment and factories can play a more active role in the process and learn intelligently. Accumulation of data, continuous learning, and data analysis can achieve failure prevention or autonomous operation to implement a fully-fledged "smart factory." The GP-3000 is Cincoze's highly-acclaimed flagship model for AI and machine vision applications, combining high-end computing performance, rich high-speed I/O, and harsh environment resilience to enable edge computing in the AIoT framework. It is the first choice for effectively implementing multiple applications on the field side, such as smart manufacturing and transportation.
+
+The key to rapid smart manufacturing upgrades is introducing high-efficiency GPU computers as the on-site data processing center. To that end, the GP-3000 supports an Intel Xeon /Core (Coffee Lake-R & Coffee Lake) processor and sports the Intel C246 chipset, with up to two sets of DDR4-2666 ECC/non-ECC SO-DIMMs for a maximum of 64 GB of total memory. This setup provides the coveted combination of efficient processing and parallel processing. The GPU Expansion Box (GEB) supports up to two 250 W high-end full-length (≤328 mm) GPU cards to further enhance its processing capabilities. The high-speed I/O ports, with the simple addition of a camera, become the machine equipment's eyes, allowing for the quick and accurate inspection and categorization of high-definition image inputs.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Corsair Refreshes RMx Series PSUs with Magnetic Levitation Fans, Upgraded Warranty
+----------------------------------------
+
+-----------------Content----------------
+Corsair on Wednesday refreshed its RMx series premium power-supply series with new 2021 models. Available in capacities of 1000 W, 850 W, 750 W, 650 W, and 550 W, these PSUs succeed the previous generation RMx series by featuring a new 135 mm "Magnetic Levitation" bearing fan that's designed for extremely high durability. This design change, along with other minor updates to the internals, allow Corsair to give these PSUs 10-year warranties. The PSUs continue to offer Cybenetics Gold switching efficiency with Acoustic A- rating, full modular cabling, and include two 4+4 pin EPS connectors on all models except 550 W. Prices should be on-par with the outgoing RMx series.
+----------------------------------------
+
+
+
+------------------Title-----------------
+ADATA XPG Unveils Intel EVO Certified XENIA Xe Gaming Lifestyle Ultrabook
+----------------------------------------
+
+-----------------Content----------------
+XPG, a fast growing provider of systems, components, and peripherals for Gamers, E-sports Pros, and Tech Enthusiasts,is pleased to announce a new Intel collaboration for a 15.6"performance EVO certified ultrabook with thin and light form factor, the XPG XENIA Xe.
+
+With a sleek and modem design, XPG XENIA Xe is built with a premium CNC anodized aluminium chassis with an overall thickness of only 14.9 mm (0.58 in) and weight of 1.65 kg (3.6 lbs). The ultrabook sports an Intel 11th Gen Core i5-1135G7 or i7-1165G7 processor, Intel Iris Xe graphics, a low power, high brightness 1080P Full HD IPS 15.6" display with capacitive touch, as well as XPG's very own PCIe Gen 4 high speed M.2 solid state drive (SSD).
+----------------------------------------
+
+
+
+------------------Title-----------------
+Intel Could Rename its Semiconductor Nodes to Catch Up with the Industry
+----------------------------------------
+
+-----------------Content----------------
+In the past few years, Intel has struggled a lot with its semiconductor manufacturing. Starting from the 10 nm fiasco, the company delayed the new node for years and years, making it seem like it is never going to get delivered. The node was believed to be so advanced that it was unexpectedly hard to manufacture, giving the company more problems. Low yields have been present for a long time, and it is only recently that Intel has started shipping its 10 nm products. However, its competitor, TSMC, has been pumping out nodes at an amazing rate. At the time of writing, the Taiwanese giant is producing the 5 nm node, with a 4 nm node on the way.
+
+So to remain competitive, Intel would need to apply a new tactic. The company has a 7 nm node in the works for 2023 when TSMC will switch to the 3 nm+ nodes. That represents a marketing problem, where the node naming convention is making Intel inferior to its competitors. To fix that, the company will likely start node renaming and give its nodes new names, that are corresponding to the industry naming conventions. We still have no information how will the new names look like, or if Intel will do it in the first place, so take this with a grain of salt.
+----------------------------------------
+
+
+
+------------------Title-----------------
+TSMC to Enter 4 nm Node Volume Production in Q4 of 2021
+----------------------------------------
+
+-----------------Content----------------
+TSMC, the world leader in semiconductor manufacturing, has reportedly begun with plans to start volume production of the 4 nm node by the end of this year. According to the sources over at DigiTimes, Taiwan's leading semiconductor manufacturer could be on the verge of starting volume production of an even smaller node. The new 4 nm node is internally referred to as a part of the N5 node generation. The N5 generation covers N5 (regular 5 nm), N5P (5 nm+), and N4 process that is expected to debut soon. And perhaps the most interesting thing is that the 4 nm process will be in high-volume production in Q4, with Apple expected to be one of the major consumers of the N5 node family.
+
+DigiTimes reports that Apple will use the N5P node for the upcoming Apple A15 SoCs for next-generation iPhones, while the more advanced N4 node will find itself as a base of the new Macs equipped with custom Apple Silicon SoCs. To find out more, we have to wait for the official product launches and see just how much improvement new nodes bring.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Arm Announces ARMv9 Architecture With a Focus on AI & Security
+----------------------------------------
+
+-----------------Content----------------
+Today, Arm introduced the Armv9 architecture in response to the global demand for ubiquitous specialized processing with increasingly capable security and artificial intelligence (AI). Armv9 is the first new Arm architecture in a decade, building on the success of Armv8 which today drives the best performance-per-watt everywhere computing happens.
+
+To address the greatest technology challenge today - securing the world's data - the Armv9 roadmap introduces the Arm Confidential Compute Architecture (CCA). Confidential computing shields portions of code and data from access or modification while in-use, even from privileged software, by performing computation in a hardware-based secure environment.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Chinese Company Jiahe Jinwei Begins DDR5 Memory Mass Production
+----------------------------------------
+
+-----------------Content----------------
+We have seen a number of announcements from key industry players about the introduction of DDR5 memory but today's news from Chinese company Jiahe Jinwei marks the beginning of DDR5 mass production. The company announced that DDR5 RAM from Micron had arrived at its facilities and that memory module production could begin. Jiahe Jinwei is the fourth largest memory manufacturer in China and owns memory brands such as Guangwei and Asgard which have recently announced DDR5 modules with capacities of up to 128 GB and speeds reaching 4,800 MHz. Intel is expected to launch their 12th Generation Alder Lake processors later this year with DDR5 support while AMD will introduce support with Zen 4 processors on a new AM5 socket.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Silicon Motion Announces World's First Merchant SD Express Controller Solution Supporting The Latest SD 8.0 Specification
+----------------------------------------
+
+-----------------Content----------------
+Silicon Motion Technology Corporation, a global leader in designing and marketing NAND flash controllers for solid-state storage devices, today announced that its flagship SM2708 SD Express controller solution now supports the latest SD 8.0 specification and backward compatibility to SD 7.1 specification. With PCIe Gen 3 x2 interface and NVMe 1.3, the SM2708 SD Express controller solution is targeted at the advancement of applications with demanding performance levels across a variety of industries enabled by Ultra-High Performance SD Express cards. The SM2708 turnkey solution supports the latest 3D NAND and features Silicon Motion's proprietary NANDXtend ECC technology, internal data path protection, and programmable firmware to maximize reliability and endurance.
+
+"Many of the latest high-end cameras & mobile phones are capable of recording video in 8K and require a faster transfer rate," said Nelson Duann, Silicon Motion's Senior Vice President of Marketing and R&D. "With the SM2708 controller now supporting the SD 8.0 specification which nearly triples throughput, applications such as 8K video capture, RAW photography, multi-channel IOT devices, multi-processing automotive storage and other applications requiring ultra-high data speeds are possible."
+----------------------------------------
+
+
+
+------------------Title-----------------
+Seagate On-Demand Lyve Data Transfer Services Simplify Edge-to-Cloud Workflows
+----------------------------------------
+
+-----------------Content----------------
+Seagate Technology, plc, a world leader in data storage infrastructure solutions, today launched Lyve Data Transfer Services with its fleet of Lyve Mobile data shuttles, arrays, and services, enabling businesses to move mass data quickly, securely, and simply from edge to private, public, or hybrid clouds. The new Lyve Data Transfer Services on-demand, web-based purchasing model enables customers to pay only for what they need, when they need it. 
+
+Businesses are generating massive amounts of data. Seagate's Rethink Data report notes that enterprise data is expected to grow at an average annual rate of 42.2% over the next two years. And a new Seagate-commissioned IDC survey found that enterprises frequently move this data among different storage locations, including endpoints, edge, and cloud. In over a thousand businesses surveyed, more than half move data between storage locations daily, weekly, or monthly, and their average total of physical data transferred is 473 TB. The faster they can move this data from edge to core to cloud, the more quickly they can unlock insights and derive value from their data.
+----------------------------------------
+
+
+
+------------------Title-----------------
+FinalWire AIDA64 v6.33 Released
+----------------------------------------
+
+-----------------Content----------------
+FinalWire Ltd. today announced the immediate availability of AIDA64 Extreme 6.33 software, a streamlined diagnostic and benchmarking tool for home users; the immediate availability of AIDA64 Engineer 6.33 software, a professional diagnostic and benchmarking solution for corporate IT technicians and engineers; the immediate availability of AIDA64 Business 6.33 software, an essential network management solution for small and medium scale enterprises; and the immediate availability of AIDA64 Network Audit 6.33 software, a dedicated network audit toolset to collect and manage corporate network inventories.
+
+The new AIDA64 update introduces support for AMD EPYC 7003 Series processors, monitoring of Corsair RGB Pro XT sensor values, and supports the latest AMD and Intel CPU platforms as well as the new graphics and GPGPU computing technologies by both AMD and NVIDIA.
+
+DOWNLOAD: FinalWire AIDA64 v6.33
+----------------------------------------
+
+
+
+------------------Title-----------------
+EVGA Precision X1 Adds Ability to Toggle Resizable BAR
+----------------------------------------
+
+-----------------Content----------------
+EVGA GeForce RTX 30 Series utilizing NVIDIA Resizable BAR gives gamers an extra boost in gameplay framerate on select titles by letting the CPU directly access the GPU's entire frame buffer memory. EVGA Precision X1 simplifies the upgrade process and makes it more intuitive, so you can spend less time updating software and firmware and get back to your gaming! All EVGA GeForce RTX 30 Series now feature support for NVIDIA Resizable BAR after updating a brand new EVGA VBIOS.
+----------------------------------------
+
+
+
+------------------Title-----------------
+ASRock Announces Z590 OC Formula Motherboard
+----------------------------------------
+
+-----------------Content----------------
+The leading global motherboard manufacturer, ASRock, proudly announces the return of its OC Formula motherboard lineup with the overclocker-designed Z590 OC Formula built for Intel's 11th-generation desktop processors. For years, ASRock has set the standard for overclocking with its previous OC Formula motherboards and its engineers have learnt from world-renowned overclocker Nick Shih, diligently studying what they need to break world records and perform their best. "As Intel launches its Z590 chipset to power the 11th Gen Intel Core processors, ASRock once again is your partner in conquering the overclocking world with the Z590 OC Formula," said Chris Lee, general manager of ASRock motherboard business unit.
+
+Back by popular demand from overclockers, the ASRock Z590 OC Formula is filled with overclocking-friendly specs such as SMD Type DIMM Slots, a 12-layer server-grade low loss PCB, and 16 power phase 90 A smart power stage technology. ASRock's SMD DIMM Slots help reduce signal loss, as well as improve RAM stability under high frequency so you can maximize your memory overclocking potential. The 12-layer server-grade PCB prevents PCB bending and improves signal integrity, giving higher performance as well as system stability. Smart power stage technologies are optimized for monitoring the current and temperature of each power phase which means the CPU gets a smooth supply of power resulting in enhanced overclocking performance and capability.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Corsair RMx Series 850 W (2021) Review
+----------------------------------------
+
+-----------------Content----------------
+The new Corsair RM850x uses topnotch parts, including Japanese caps and a magnetic levitation fan. It is also one of only two PSUs with three EPS connectors! The cherry on top is the high performance, among the best in this category, and the silent operation as long as you keep the load on the minor rails at normal levels.
+----------------------------------------
+
+
+
+------------------Title-----------------
+CORSAIR K55 RGB PRO XT Keyboard Review
+----------------------------------------
+
+-----------------Content----------------
+CORSAIR updates their flagship membrane keyboard with not one but two keyboards. Today, we take a look at the K55 RGB PRO XT that adds per-key RGB backlighting, new iCUE support, enhanced onboard functionality, and Elgato Stream Deck compatibility with six G-keys, making this a budget powerhouse!
+----------------------------------------
+
+
+
+------------------Title-----------------
+Gigabyte Z590 AORUS Master (11th Gen) Review
+----------------------------------------
+
+-----------------Content----------------
+Intel's 11th Generation Core Processors are here, and with them a whole host of new motherboards. The Gigabyte Z590 AORUS Master boasts a massive VRM with 90 A power stages, dual BIOS, and even 10 Gb/s LAN. Let's see how the new Gigabyte Z590 AORUS Master performs!
+----------------------------------------
+
+
+
+------------------Title-----------------
+ASRock Z590 Steel Legend WiFi 6E (11th Gen) Review
+----------------------------------------
+
+-----------------Content----------------
+The ASRock Z590 Steel Legend WiFi 6E aims to be a durable and dependable platform for the mainstream market. With a solid feature set at its core and a reasonable price tag, the Z590 Steel Legend WiFi 6E is a compelling package.
+----------------------------------------
+
+
+
+------------------Title-----------------
+MSI MEG Z590 ACE (11th Gen) Review
+----------------------------------------
+
+-----------------Content----------------
+MSI aims to continue their legacy of excellent performance and overclocking with the new Z590 line-up. Targeting the top end of the mainstream stack, the MSI MEG Z590 ACE features a robust VRM design, four M.2 slots, Thunderbolt 4, and a plethora of overclocking features. Has the MSI MEG Z590 ACE hit its target?
+----------------------------------------
+
+
+
+------------------Title-----------------
+MSI MPG Z590 Carbon EK X (11th Gen) Review
+----------------------------------------
+
+-----------------Content----------------
+Developed in partnership with and distributed by EKWB, the MSI MPG Z590 Carbon EK X features a monoblock for CPU and VRM cooling. As the successor to the award-winning MSI MPG Z490 Carbon EK X, the MSI MPG Z590 Carbon EK X has a lot of expectations to live up to. Will it prove worthy?
+----------------------------------------
+
+
+
+------------------Title-----------------
+Gigabyte Z590I AORUS Ultra (11th Gen) Review
+----------------------------------------
+
+-----------------Content----------------
+Like its Z490 predecessor, the Gigabyte Z590I AORUS Ultra comes with a lot of hardware packed into a small form factor. Among its features are 2.5 Gb/s Ethernet, WiFi 6, dual M.2 slots, and top-tier 90 A power stages. Let's dig in to see how Gigabyte has improved an already excellent design!
+----------------------------------------
+
+
+
+------------------Title-----------------
+ASUS ROG Maximus XIII Hero Review
+----------------------------------------
+
+-----------------Content----------------
+The ASUS ROG Maximus XIII Hero has premium looks, premium features, a powerful VRM, Thunderbolt 4, four M.2 slots with double-sided heatsinks, dual 2.5 Gb/s LAN, and WiFi 6E. The Maximus XIII Hero could be a compelling candidate for any high-end 11th Gen Intel build.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Intel Core i5-11600K Review - Impressive Value
+----------------------------------------
+
+-----------------Content----------------
+The Core i5-11600K is Intel's mid-range entry using the Rocket Lake architecture. Our review confirms that it is a great alternative to AMD's overpriced Ryzen 5 5600X, offering similar performance at almost $100 less. The i5-11660K is also fast enough to compete with last generation's 8-core i7-10700K.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Intel Core i9-11900K Review - World's Fastest Gaming Processor?
+----------------------------------------
+
+-----------------Content----------------
+The Intel Core i9-11900K is the company's Rocket Lake flagship. It uses the new Cypress Cove architecture and includes support for new instruction sets like AVX512 and DLBoost to speed up AI calculations. We run the processor through our new test suite and also take a closer look at gaming performance, including frametimes.
+----------------------------------------
+
+
+
+------------------Title-----------------
+NVIDIA Releases GeForce 465.89 Game Ready Drivers: Resizable BAR Finally Here
+----------------------------------------
+
+-----------------Content----------------
+NVIDIA today released the latest version of GeForce Software. Version 465.89 WHQL comes with optimization for "DiRT 5" update with raytracing support; "Outriders," and "Evil Genius 2: World Domination." More importantly, the drivers formally introduce Resizable BAR support for GeForce RTX 30-series "Ampere" desktop and mobile discrete GPUs. Priliminary (beta) support is also added for virtualization on GeForce GPUs. Other major changes include support for the new OpenCL 3.0 compute API, NVIDIA SLI support for "Shenmue III" and "The Medium" (on "Turing" GPUs only). Support for 8K TVs is improved by extending the DP-to-HDMI 2.1 PCON clock frequency range.
+
+Among the handful issues fixed with 465.89 WHQL are pixellated smoke with "Rainbow 6 Siege" in Vulkan API mode; a crash with X4 on RTX 30-series; a BSOD when a Samsung Odyssey G9 display is paired with HDMI TV; a BSOD when playing games and watching YouTube videos simultaneously on an RTX 2060; "Sunset Overdrive" showing green display corruption with in-game DOF enabled; Realtek DP to HDMI 2.1 converters being limited to 600 MHz pixel clock, abnormal idle power draw on "Turing" and "Ampere" GPUs with higher refresh-rate G-SYNC monitors; and screenshots captured using GeForce Experience appearing washed out with HDR enabled. 
+
+DOWNLOAD: NVIDIA GeForce 465.89 WHQL
+----------------------------------------
+
+
+
+------------------Title-----------------
+G.SKILL Announces Extreme Speed Memory Kits Up to DDR4-5333 for Z590 Platform
+----------------------------------------
+
+-----------------Content----------------
+G.SKILL is excited to announce a series of high speed DDR4 kits for the new Intel Z590 platform. , including DDR4-5333 CL22 16 GB (8GBx2), DDR4-4800 CL17 16 GB (8GBx2), DDR4-4800 CL20 32 GB (16GBx2), and DDR4-4600 CL20 64 GB (32GBx2) under the Trident Z Royal, Trident Z RGB, and Ripjaws V series. These new DDR4 memory specifications offer a perfect choice for those pursuing extreme memory overclocking performance, building a powerful workstation, or for the ultimate gaming experience.
+
+Ultimate Performance DDR4-5333 on the Intel Z590 Platform
+Dedicated to developing ever-faster extreme overclocking memory, G.SKILL is pushing the 16 GB (8GBx2) kit capacity to a blistering speed of DDR4-5333. This demonstrates the remarkable memory overclocking support on the latest Intel Z590 platform, which has been validated on the ASUS ROG STRIX Z590-E GAMING WIFI, ASUS ROG MAXIMUS XIII APEX, and MSI MEG Z590I UNIFY motherboards with the latest Intel Core i9-11900K processor, as shown in the screenshots below:
+----------------------------------------
+
+
+
+------------------Title-----------------
+11th Gen Intel Core Unleashes Unmatched Overclocking, Game Performance
+----------------------------------------
+
+-----------------Content----------------
+The 11th Gen Intel Core S-series desktop processors (code-named "Rocket Lake-S") launched worldwide today, led by the flagship Intel Core i9-11900K. Reaching speeds of up to 5.3 GHz with Intel Thermal Velocity Boost, the Intel Core i9-11900K delivers even more performance to gamers and PC enthusiasts. 
+
+Engineered on the new Cypress Cove architecture, 11th Gen Intel Core S-series desktop processors are designed to transform hardware and software efficiency and increase raw gaming performance. The new architecture brings up to 19% gen-over-gen instructions per cycle (IPC) improvement for the highest frequency cores and adds Intel UHD graphics featuring the Intel Xe graphics architecture for rich media and intelligent graphics capabilities. That matters because games and most applications continue to depend on high-frequency cores to drive high frame rates and low latency. Designed to Game: With its new 11th Gen desktop processors, Intel continues to push desktop gaming performance to the limits and deliver the most amazing immersive experiences for players everywhere. Read the TechPowerUp Reviews of the Core i9-11900K and Core i5-11600K.
+----------------------------------------
+
+
+
+------------------Title-----------------
+ASRock Announces AMD Radeon RX 6900 XT OCF
+----------------------------------------
+
+-----------------Content----------------
+ASRock has announced a new graphics card that's entering its RX 6900 XT lineup, AMd's current GPU technology pinnacle in the consumer space. The new ASRock Radeon RX 6900 XT OCF is apparently ASRock's new top-tier offering, joining the Phantom Gaming and reference designs for this particular AMD SKU. Like most custom RX 6900 XT graphics cards, ASRock has fitted the RX 6900 XT OCF with a triple-fan, triple-slot cooler and heatsink assemblage, as well as with three 8-pin connectors to ensure the card is always fed enough power towards its top-of-the-line performance. The card further features a new, relatively colorful design for ASRock, as well as RGB bling for your visual pleasure (in sexy showcase pictures, because we know you won't find these out in the wild).
+----------------------------------------
+
+
+
+------------------Title-----------------
+Start Your Winning Streak - CORSAIR Launches K55 RGB PRO and K55 RGB PRO XT Gaming Keyboards
+----------------------------------------
+
+-----------------Content----------------
+[Editor's note: Our review of the CORSAIR K55 RGB PRO XT can be found here for those interested.]
+
+CORSAIR, a world leader in high-performance gear for gamers and content creators, today announced a new pair of RGB gaming keyboards for PC gamers to get started on the path to victory: the CORSAIR K55 RGB PRO and K55 RGB PRO XT. These latest entries in the K55 family light up your desktop thanks to dynamic RGB backlighting, and include six dedicated macro keys with Elgato Stream Deck software integration for one-button actions and shortcuts. Whether you're getting started in gaming or looking to upgrade your setup, the K55 RGB PRO and K55 RGB PRO XT offer the essential features and head-turning style that gamers demand.
+
+The new K55 RGB PRO keyboards brilliantly illuminate your battlestation. The K55 RGB PRO features five zones of RGB lighting with six preset onboard lighting effects, while the K55 RGB PRO XT kicks things up a notch with per-key RGB backlighting, offering ten onboard lighting effects and near-limitless customization through CORSAIR iCUE software. With a recently redesigned user interface for even more intuitive control, iCUE unlocks dynamic RGB lighting customization, key remaps, and powerful in-game macros. iCUE also coordinates system-wide synchronization of your RGB lighting, along with exclusive iCUE game integrations when playing select games for the most immersive experience possible.
+----------------------------------------
+
+
+
+------------------Title-----------------
+AMD Outs 32 MB Infinity Cache on Navi 23, No Cache on Upcoming Van Gogh APUs
+----------------------------------------
+
+-----------------Content----------------
+AMD has revealed the Infinity Cache size for the upcoming Navi 23 GPU, as well as its absence in the next-generation Van Gogh APU, which features Zen 2 cores and an RDNA GPU. The reveal comes via a new patch done by AMD to the AMKFD, a Linux kernel HSA driver for AMD APUs. The patch file doesn't list Infinity Cache per se, but does clarify the last-level cache for AMD's GPUs - L3, which is essentially the same.
+
+The patch reveals L3 size for Sienna Cichlid (Navi 21), Navy Flounder (Navi 22), and Dimgrey Cavefish (Navi 23). Navi 21 features 128*1024 (128 MB) of Infinity Cache, the just-released Navi 22 has 96 MB, as we know, and according to the file, Navi 23 is bound to feature 32 MB of it. Considering that Van Gogh lacks an infinity Cache, it would seem that it's making use of previous-gen Navi graphics, and won't leverage RDNA2, of which the Infinity Cache is a big part of. It remains to be seen if Van Gogh will materialize in an APU product lineup or if it's a specific part for a customer. It also remains to be seen which RX product will Navi 23 power - if an AMD RX 66000 series, or 6500 series.
+----------------------------------------
+
+
+
+------------------Title-----------------
+MonsterLabo Plays Flight Simulator with The Beast, Achieves Fully-Fanless Gaming Experience
+----------------------------------------
+
+-----------------Content----------------
+MonsterLabo, the maker of fanless PC cases designed for gaming with zero noise, has today tested its upcoming flagship offering in the case lineup. Called The Beast, the case is designed to handle high-end hardware with large TDPs and dissipate all that heat without any moving parts. Using only big heatsinks and heat pipes to transfer the heat to the big heatsink area. In a completely fanless configuration, the case can absorb and dissipate a CPU TDP of 150 Watts and a GPU TPD with 250 Watts. However, when equipped with two 140 mm fans running below 500 RPM, it can accommodate a 250 W CPU, and 320 W GPU. MonsterLabo has tested the fully fanless configuration, which was equipped with AMD Ryzen 7 3800XT processor, paired with NVIDIA's latest GeForce RTX 3080 Ampere graphics card. 
+
+There were no fans present in the system to help move the heat away, and the PC was being stress-tested using Microsoft's Flight Simulator. The company has posted a chart of CPU and GPU temperatures over time, where we see that the GPU has managed to hit about 75 degrees Celsius at one point. The CPU has remained a bit cooler, where the CPU package hit just above the 70-degree mark. Overall, the case is more than capable of cooling the hardware it was equipped with. By adding two slow-spinning fans, the temperatures would get even lower, however, that is no longer a fanless system. MonsterLabo's The Beast is expected to get shipped in Q3 of this year when reviewers will get their hands on it and test it for themselves. You can watch the videos in MonsterLabo's blog post here.
+----------------------------------------
+
+
+
+------------------Title-----------------
+The Latest BIOS of GIGABYTE B560 Motherboards Boosts i9 11900K CPU to All-cores 5.1 GHz
+----------------------------------------
+
+-----------------Content----------------
+Gigabyte Technology, one of the top global manufacturers of motherboards, graphics cards, and hardware solutions, announces today the latest BIOS of B560 AORUS motherboards. Enhanced by the 12+1 phases DrMOS power stage with 60 Amps for each and full coverage VRM thermal design, B560 AORUS motherboards can support Intel Core i9 11900K (F) series processors overclocking to all cores 5.1 GHz. The exclusive anti-interference design of memory circuit enables DDR4 speed raising up to XMP 4800 MHz, and overclocking performance boost to DDR4 5300 MHz. which demonstrates GIGABYTE's strong R&D strength and persistence in quality. Users can enjoy the performance boost of time-limited overclocking by simply updating to the latest BIOS to meet their special needs.1
+
+Intel B series chipset motherboards have been always excluded from overclocking due to the product positioning. Although the memory XMP overclocking is unlocked on 500 series, the processor frequency can only reach up to 4.8 GHz by Turbo Boost. Thanks to the efforts of Gigabyte's R&D team, the processor can be overclocked to 5.1 GHz and maintain low temperature under the Prime95 no AVX burn-in test. This powerful performance benefits from the top-quality materials of GIGABYTE AORUS motherboards and product design capabilities, which include 12+1 phases/ 60Apms DrMOS power stage, 6 layers 2Oz ultra-cool PCB, full-covered VRM thermal design, and the latest Smart Fan 6 technology for temperature control. These features allow processors to have a stable and pure power supply under ultra-high frequency operation, providing the most solid backing for the CPU limited-time overclocking.
+----------------------------------------
+
+
+
+------------------Title-----------------
+QNAP Launches Expansion Card for PC/NAS with Dual M.2 SSD & 2.5 GbE Ports
+----------------------------------------
+
+-----------------Content----------------
+QNAP Systems, Inc., today launched the QM2-2P2G2T PCIe card which adds M.2 SSD slots and 2.5 GbE connectivity to a QNAP NAS or PC/server/workstation. NAS users can benefit from 2.5 GbE connectivity, improve overall NAS performance by enabling SSD caching, and upgrade NAS storage capacity without occupying any 3.5-inch drive bays. PC/server/workstation users can increase their storage capacity while also boosting overall IOPS performance by offloading bandwidth-demanding tasks to SSDs to minimize application loading times.
+
+The QM2-2P2G2T features dual 2.5GBASE-T Multi-Gigabit (2.5G/1G/100M/10M) network ports to boost bandwidth-demanding tasks. M.2 SSD thermal sensors allow real-time temperature monitoring, with a quiet cooling module (heatsink and smart fan) to keep the SSDs running within optimal temperatures.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Mushkin Launches New Delta and Gamma Series Solid State Drives
+----------------------------------------
+
+-----------------Content----------------
+Mushkin Enhanced MFG, today unveiled its new DELTA and GAMMA series of high-performance NVMe solid-state drives (SSDs) featuring blazing fast sequential speeds of up to 7175 MB/s read and 6800 MB/s write the new SSDs deliver an uncompromising mix of speed, storage capacity and reliability for mainstream, gamers and professional PC users alike.
+
+The DELTA series, powered by Phison's E16 series controller, features the next evolution of the PCI-Express Gen4 interface offering an impressive range of performance, security, and reliability. Delivering up to 10 times the sequential read and sequential write speeds of some SATA SSDs and up to 50 times the speed of some traditional HDDs. The GAMMA series, powered by Phison's E18 series controller, Pushes the limits of performance, capacity, cost, and energy efficiency, making it the ideal solution for gamers, content creators, and computing enthusiasts, which demand the absolute best out of their PC system.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Kingston Announces NV1 NVMe PCIe SSD
+----------------------------------------
+
+-----------------Content----------------
+Kingston today announces the launch of the NV1 NVMe PCIe SSD. With efficient performance in a single-sided M.2 design, NV1 is the ideal entry-level drive for first-time NVMe users with laptops and small form factor PCs. NV1 is a substantial storage solution with capacities up to 2 TB. It features read/write speeds up to 2,100/1,700 MB/s, respectively, thus delivering 3x the performance of a SATA-based SSD. NV1 uses less power, emits less heat and has quicker load times making it ideal for users who appreciate responsiveness and ultra-fast data access but have systems with limited space. NV1 is available in 500 GB, 1 TB, and 2 TB capacities and is backed by a limited three-year warranty, free tech support and legendary Kingston reliability.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Massive Cyberpunk 2077 1.2 Update Fixes Tons of Bugs, Adds Raytracing for AMD
+----------------------------------------
+
+-----------------Content----------------
+This article serves as a way to sate my curiosity: does anyone even care about Cyberpunk 2077 anymore, or was the release state of the game (and the terrible media surrounding it and CD Projekt Red) enough for people to forget what likely was the world's most anticipated game ever? While this editor had loads of fun playing the game in a PS4 Pro system, such wasn't the case for many, many players - and especially for PS4 players, who couldn't even buy the game from the PS store after a certain point, and still can't. CD Projekt Red has, since the game's release, launched 11 patches that fixed a myriad of bugs and optimized the games' performance - but a ton of issues still remain, and remained.
+
+Now, update 1.2, the second in the two major bug-fixing updates for the game, is being ready for prime-time, and there's a veritable laundry list of fixes on offer. The intention is for this update to solve most of the underlying, fixable issues that don't require reworking of core gameplay aspects of the game, paving the way for the upcoming free DLC and downloadable expansions which are sure to be coming - at least one throughout 2021 seems not only plausible, but extremely likely. But is this enough? Do you still have faith in this game and hope CD Projekt Red pulls a No Man's Sky from Cyberpunk 2077? Or is it far away in your rearview mirror, abandoned in a dystopian setting? In either case, the full list of fixes follows after the break; just looking at it is more than enough information to see the state of the game now, almost four months after launch. Two things to point out: raytracing is now supported on AMD graphics cards, with the latest drivers; and there's an interesting "and many more" in the end of the patch notes. Update 19:36 UTC: The patch is live now! Download size is around 30 GB. Or 55 GB if you're on a PlayStation.
+----------------------------------------
+
+
+
+------------------Title-----------------
+AMD Releases Radeon Software Adrenalin 21.3.2
+----------------------------------------
+
+-----------------Content----------------
+AMD today released the Radeon Software Adrenalin 21.3.2 beta drivers. The drivers come with optimization for "Outriders," "Evil Genius 2: World Domination," and the DirectX Raytracing update for "DiRT 5." A handful issues have also been fixed. Radeon RX 6700 series GPUs incorrectly reporting clock speeds in the Performance tab of Radeon Software, has been fixed. Artifacts noted with shadows in "Insurgency: Sandstorm," has been fixed. A bug with desktop resolution changing after a power cycle, on certain displays, has been fixed. Screen blacking out when playing games in the borderless fullscreen mode with FreeSync enabled on RX 6000 series GPUs, has been fixed. Grab the drivers from the link below. 
+
+DOWNLOAD: Radeon Software Adrenalin 21.3.2 beta
+----------------------------------------
+
+
+
+------------------Title-----------------
+EVGA X17 Review - 8K Polling Rate FTW
+----------------------------------------
+
+-----------------Content----------------
+Shortly after Razer, EVGA hits the market with their own 8000 Hz polling-rate mouse. In addition to PixArt's PMW3389, the X17 uses two LOD sensors to achieve the lowest and most accurate lift-off distance possible. Particularly responsive spring-loaded main buttons and a highly granular weight system round things off.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Gigabyte Z590I AORUS Ultra Review
+----------------------------------------
+
+-----------------Content----------------
+Like its Z490 predecessor, the Gigabyte Z590I AORUS Ultra comes with a lot of hardware packed into a small form factor. Among its features are 2.5 Gb/s Ethernet, WiFi 6, dual M.2 slots, and top-tier 90 A power stages. Let's dig in to see how Gigabyte has improved an already excellent design!
+----------------------------------------
+
+
+
+------------------Title-----------------
+Gigabyte Registers as Many as 12 Different RTX 3080 Ti SKUs With the EEC
+----------------------------------------
+
+-----------------Content----------------
+Hot in the heels of the rumor mill pegging the release of NVIDIA's next halo product positioned below the all-powerful RTX 3090, the RTX 3080 Ti, for May, Gigabyte has just registered 12 cards with the EEC (Eurasian Economic Commission). Gigabyte had already registered five such SKUs way back in December, before multiple product revisions from NVIDIA settled in what could be the cards' final form. The 12 cards that have now been submitted include 12 GB memory, and models span the entirety of Gigabyte's product stack, from the top-of-the-line AORUS Waterblock RGB, and including a single-fan, blower-type TURBO model. The listed specs confirm the 12 GB GDDR6X memory over a 384-bit memory bus.
+----------------------------------------
+
+
+
+------------------Title-----------------
+ATP Introduces Copper Foil, Fin-Type Heatsink and Thermal Pad for NVMe SSDs
+----------------------------------------
+
+-----------------Content----------------
+ATP Electronics, the global leader in specialized storage and memory solutions, announced the launch of its new NVMe flash storage solutions with customizable thermal management. Using both hardware and firmware components, the thermal management solution prevents overheating while ensuring optimal sustained performance, particularly for NVMe solid state drives (SSDs) and modules that operate at blazing-fast speeds while installed in compact systems with little or no airflow.
+
+The customizable ATP Thermal Management Solution includes copper foil and fin-type heatsink options for N600Si / N600Sc M.2 2280 modules with up to 3.84 TB and controller thermal pad for N600Si U.2 SSDs with up to 8 TB capacities. They are recommended for applications requiring stable and sustained read/write performance at high temperatures. Both come with advanced Power Loss Protection (PLP), Low Density Parity Check (LDPC) ECC algorithm, RAID engine support, and end-to-end data path protection.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Nintendo Game Boy Modded to Mine Bitcoin
+----------------------------------------
+
+-----------------Content----------------
+Nintendo's Game Boy handheld console was launched in 1989, making it 32 years old. Being widely regarded as the icon of handheld gaming, it was sold in millions and has been copied countless times. However, with some spare time and a crazy mind, the console has been modified to mine Bitcoin cryptocurrency. Yes, you are reading that right. An 8-bit console is mining the biggest and the most valuable cryptocurrency. An electronics enthusiast named "stacksmashing" has set himself a difficult task - to prove that the console can mine some Bitcoin, at any possible rate. And he has managed to prove it is possible, although with some modifications.
+
+Given that the console lacks any connectivity options to the outside world due to its age, the modder had to use SPI (Serial Peripheral Interface) to connect the Game Boy with the Raspberry Pi, which had the task of connecting the Game Boy to the internet to mine some Bitcoin. Using the custom 8-bit Sharp LR35902 processor running at 4.19 MHz, the console is naturally not very powerful. Thus, it can not do any meaningful mining and to compare it to modern mining ASICs is just silly. However, it is interesting to see proof of concept and get to see some engineering fun. For more information, please check out the YouTube video here.
+----------------------------------------
+
+
+
+------------------Title-----------------
+Intel Core i9-11900K Breaks 7 GHz Barrier at 1.873 V
+----------------------------------------
+
+-----------------Content----------------
+Intel Core i9-11900K processor, the flagship model from the 11th generation "Rocket Lake" CPU lineup, has been overclocked to more than 7 GHz by the "Rog-Fisher". Thanks to the report coming from VideoCardz, we have information that the top-end Rocket Lake processor is possibly a very good overclocker. Running at 7048 MHz, the CPU managed to achieve that frequency using "only" 1.873 V. There is no doubt that the system was being cooled by LN2, as such overclocks need it to remain stable, however, we don't have any data on that. The CPU was paired with the ASUS ROG Maximus XIII Apex motherboard, designed for extreme overclocking purposes.
+
+It is important to note that the CPU didn't run any benchmarks, as it was just validated at that frequency by Valid x86. The sample was likely supplied by Intel, so it could be a cherry-picked model. For the official benchmark results of Rocket Lake processors, we have to wait until tomorrow (March 30th), when NDA lifts.
+----------------------------------------
+
+
+
+------------------Title-----------------
+NVIDIA Repurposing Scrapped RTX 3080 Ti GA102-250 GPUs to GA102-300 for RTX 3090
+----------------------------------------
+
+-----------------Content----------------
+The NVIDIA RTX 3080 Ti has experienced numerous delays with the card's launch most recently being pushed to mid-May. The unreleased RTX 3080 Ti has gone through various internal revisions with the card expected to use a GA102-250 GPU until plans were scrapped in late January. The RTX 3080 Ti is now expected to feature the GA102-225 GPU instead when it finally releases. NVIDIA having already produced the required processors is now repurposing the GA102-250 GPUs slated for the RTX 3080 Ti for use in RTX 3090 Founders Edition cards. This switch makes sense as the GA102-250 was rumored to feature the same number of cores as the RTX 3090 just with a smaller memory size. NVIDIA appears to have now enabled the full 384-bit memory bus and has laser engraved the chips to show their change to GA102-300's.
+----------------------------------------
+
+
+
+------------------Title-----------------
+ASUS Launches Single-Fan RTX 3060 12GB Phoenix Graphics Card
+----------------------------------------
+
+-----------------Content----------------
+ASUS has recently launched their first Ampere Series Phoenix card with the GeForce RTX 3060 Phoenix (PH-RTX3060-12G). The Phoenix features a 2.5 slot design with a single fan and measures just 17.7 x 12.8 x 5.1 cm which makes it the shortest Ampere GPU from ASUS. The card features the NVIDIA standard 1777 MHz boost clock but can be configured with the bundled ASUS software for 1807 MHz. The Phoenix includes three DisplayPort 1.4a connectors and one HDMI 2.1 along with a single 8-pin power connector. The card is now available to purchase from select retailers but official pricing and availability have not been released.
+----------------------------------------
+
+
+
