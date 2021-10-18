@@ -19,13 +19,13 @@ def get_text(href):
     titlediv = soup.find_all("a", class_="newslink")
     contdiv = soup.find_all("div", class_="text p")
     with open("./tpu_txt.txt", "w") as writer:
-        writer.write("------------------TechPowerUp!!!-----------------\n\n\n\n\n\n\n\n")
+        writer.write("------------------TechPowerUp!!!------------------\n\n\n\n\n\n\n\n")
         for cont, cont_01 in zip(titlediv, contdiv):
             title = cont.text
             content = cont_01.text
             content = content.replace("Read Review", "")
             content = content.replace("Read full story", "")
-            writer.write("------------------News-----------------\n")
+            writer.write("------------------News------------------\n")
             writer.write(title.strip("\n").strip())
             # writer.write("\n----------------------------------------\n")
             writer.write("\n\n\n")
@@ -37,4 +37,4 @@ def get_text(href):
 
 get_text("http://techpowerup.com")
 
-print("All recent techpowerup data get, :)")
+print("\nEnjoy it\n:)")
